@@ -3,9 +3,10 @@ package it.epicode.be.godfather.model;
 import java.util.ArrayList;
 import java.util.List;
 
+import lombok.Data;
 import lombok.Getter;
 
-@Getter
+@Data
 public class Menu {
 	
 	private final List<Pizza> menuPizza = new ArrayList<>();

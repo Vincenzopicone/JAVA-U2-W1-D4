@@ -3,11 +3,13 @@ package it.epicode.be.godfather.model;
 import java.util.HashMap;
 import java.util.Map;
 
+import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 
-@Getter
-@Setter
+//@Getter
+//@Setter
+@Data
 public class Ordine {
 
 	private Integer numeroOrdine;
