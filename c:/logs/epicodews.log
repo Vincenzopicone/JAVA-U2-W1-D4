@@ -1,0 +1,73 @@
+"2023-04-13 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.6 on MBP-di-Vins.station with PID 16092 (/Users/vins/Desktop/EpicodeWorkspace/JAVA-U2-W1-D4/target/classes started by vins in /Users/vins/Desktop/EpicodeWorkspace/JAVA-U2-W1-D4)
+""2023-04-13 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-04-13 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-04-13 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Started GodFatherPizzaApplication in 0.805 seconds (JVM running for 1.508)
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - ****** ORDINE ******
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero ordine: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero coperti: 3
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero Tavolo: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Stato ordine: IN_CORSO
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Quantità: 3
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Cheese - Ham - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Ham - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Lemonade - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Margherita (tomato, cheese) - Cheese - Ham - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Totale €: 51.45
+""2023-04-13 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.6 on MBP-di-Vins.station with PID 16320 (/Users/vins/Desktop/EpicodeWorkspace/JAVA-U2-W1-D4/target/classes started by vins in /Users/vins/Desktop/EpicodeWorkspace/JAVA-U2-W1-D4)
+""2023-04-13 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-04-13 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-04-13 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Started GodFatherPizzaApplication in 0.804 seconds (JVM running for 1.434)
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - ****** ORDINE ******
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero ordine: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero coperti: 3
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero Tavolo: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Stato ordine: IN_CORSO
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Lemonade - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Quantità: 3
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Cheese - Ham - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Ham - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Margherita (tomato, cheese) - Cheese - Ham - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Totale €: 51.45
+""2023-04-13 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.6 on MBP-di-Vins.station with PID 16325 (/Users/vins/Desktop/EpicodeWorkspace/JAVA-U2-W1-D4/target/classes started by vins in /Users/vins/Desktop/EpicodeWorkspace/JAVA-U2-W1-D4)
+""2023-04-13 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-04-13 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-04-13 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Started GodFatherPizzaApplication in 0.759 seconds (JVM running for 1.299)
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - ****** ORDINE ******
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero ordine: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero coperti: 3
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero Tavolo: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Stato ordine: IN_CORSO
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Lemonade - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Quantità: 3
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Cheese - Ham - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Ham - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Margherita (tomato, cheese) - Cheese - Ham - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Totale €: 51.45
+""2023-04-13 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.6 on MBP-di-Vins.station with PID 16371 (/Users/vins/Desktop/EpicodeWorkspace/JAVA-U2-W1-D4/target/classes started by vins in /Users/vins/Desktop/EpicodeWorkspace/JAVA-U2-W1-D4)
+""2023-04-13 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-04-13 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-04-13 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Started GodFatherPizzaApplication in 0.774 seconds (JVM running for 1.384)
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - ****** ORDINE ******
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero ordine: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero coperti: 3
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero Tavolo: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Stato ordine: IN_CORSO
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Lemonade - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Cheese - Ham - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Quantità: 3
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Ham - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Margherita (tomato, cheese) - Cheese - Ham - Quantità: 1
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-04-13 [main] INFO  it.epicode.be.godfather.MenuRunner - Totale €: 51.45
+"
